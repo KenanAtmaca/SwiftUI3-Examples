@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI3_ExamplesApp: App {
     var body: some Scene {
         WindowGroup {
-            ButtonModifiersExample()
+            ControlGroupExample()
         }
     }
 }

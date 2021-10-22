@@ -21,6 +21,7 @@
 		15A36186270FA6A300EBDBD8 /* DismissDisabledExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A3617B270FA6A300EBDBD8 /* DismissDisabledExample.swift */; };
 		15A36187270FA6A300EBDBD8 /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A3617C270FA6A300EBDBD8 /* AsyncImageExample.swift */; };
 		15A36188270FA6A300EBDBD8 /* TextFieldManagmentExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A3617D270FA6A300EBDBD8 /* TextFieldManagmentExample.swift */; };
+		15FC982E27235855009DFBF4 /* ControlGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15FC982D27235855009DFBF4 /* ControlGroupExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		15A3617B270FA6A300EBDBD8 /* DismissDisabledExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DismissDisabledExample.swift; sourceTree = "<group>"; };
 		15A3617C270FA6A300EBDBD8 /* AsyncImageExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
 		15A3617D270FA6A300EBDBD8 /* TextFieldManagmentExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldManagmentExample.swift; sourceTree = "<group>"; };
+		15FC982D27235855009DFBF4 /* ControlGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				15A3617B270FA6A300EBDBD8 /* DismissDisabledExample.swift */,
 				15A3617C270FA6A300EBDBD8 /* AsyncImageExample.swift */,
 				15A3617D270FA6A300EBDBD8 /* TextFieldManagmentExample.swift */,
+				15FC982D27235855009DFBF4 /* ControlGroupExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				15A36185270FA6A300EBDBD8 /* SearchableExample.swift in Sources */,
 				15A36165270FA69000EBDBD8 /* SwiftUI3_ExamplesApp.swift in Sources */,
 				15A36186270FA6A300EBDBD8 /* DismissDisabledExample.swift in Sources */,
+				15FC982E27235855009DFBF4 /* ControlGroupExample.swift in Sources */,
 				15A36181270FA6A300EBDBD8 /* FocusStateExample.swift in Sources */,
 				15A36184270FA6A300EBDBD8 /* BadgeExample.swift in Sources */,
 				15A3617F270FA6A300EBDBD8 /* RefreshableExample.swift in Sources */,
